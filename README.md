@@ -6,9 +6,9 @@
 | --- | --- |
 | Поварёшка | [Инструкция](Поварёшка/AGENTS.md) · [Учебная память](Поварёшка/ПАМЯТЬ.md) · [Кулинарные знания](Поварёшка/ЗНАНИЯ.md) · [Документы](Поварёшка/ДИСК.md) |
 
-[Общая папка показа на Диске](https://drive.google.com/drive/folders/1SuZud9p4As3vbAKF5z_pRoVXUefX-fuz).
+[Общая папка показа на Диске](https://drive.google.com/drive/folders/1GRdyRLZviwwYr9wgf_X-WtwiD57VaCuW).
 
 
 ## Указатель для учебного Project «Поварёшка»
 
-> При каждом новом чате читай `Поварёшка/AGENTS.md` в репозитории `mgalyamova-commits/maraphon_IWE`, ветка `day-2-start-20261122`. Используй память и документы, указанные в этой ветке.
+> При каждом новом чате читай `Поварёшка/AGENTS.md` в репозитории `mgalyamova-commits/maraphon_IWE`, ветка `test-hab-clean-start-20261122`. Используй память и документы, указанные в этой ветке.
