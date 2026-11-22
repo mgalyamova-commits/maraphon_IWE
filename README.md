@@ -7,7 +7,13 @@
 | Поварёшка | Домашние ужины, подтверждённые продукты и рецепты. [Инструкция](Поварёшка/AGENTS.md) · [Учебная память](Поварёшка/ПАМЯТЬ.md) · [Кулинарные знания](Поварёшка/ЗНАНИЯ.md) · [Документы на Диске](Поварёшка/ДИСК.md) |
 | Хаб | Планирование дня, открытые дела, ожидания и итоги. [Инструкция](Хаб/AGENTS.md) · [Договорённости](Хаб/ДОГОВОРЁННОСТИ.md) · [Полезные знания](Хаб/ЗНАНИЯ.md) · [Рабочие документы](Хаб/ДИСК.md) · [Общая портянка](Хаб/ПОРТЯНКА.md) |
 
-[Общая папка показа на Диске](https://drive.google.com/drive/folders/1GRdyRLZviwwYr9wgf_X-WtwiD57VaCuW).
+## Google Диск — День 2, чистый повтор 22.11, браузер
+
+[Общая папка повтора](https://drive.google.com/drive/folders/16SG4NjxPS565VRISCBIbVYT2aN7UHMot):
+- [Папка Поварёшки](https://drive.google.com/drive/folders/1yTrmisZOVp4zF3U0SCU49Um5vL8NwB8j)
+  - [Список продуктов — после первого дня](https://docs.google.com/document/d/1uGrDQT0cjHpFtye-718qJBNvALV4Uw4QL2kihxFs7Os/edit)
+  - [Книга рецептов](https://docs.google.com/document/d/1lf5_n8Ho-LemBPx3l5xbUy8zWlWC-4jl7GeZQKJKfi0/edit)
+- [Папка Хаба](https://drive.google.com/drive/folders/1vuuQA8Ri8B9HPk_wcrENFEzqSez-cNil)
 
 ## Указатель для отдельного Project ChatGPT «Поварёшка»
 
