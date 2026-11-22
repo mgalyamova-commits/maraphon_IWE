@@ -6,7 +6,7 @@
 | --- | --- |
 | Поварёшка | [Инструкция](Поварёшка/AGENTS.md) · [Учебная память](Поварёшка/ПАМЯТЬ.md) · [Кулинарные знания](Поварёшка/ЗНАНИЯ.md) · [Документы](Поварёшка/ДИСК.md) |
 
-[Общая папка показа на Диске](https://drive.google.com/drive/folders/1SuZud9p4As3vbAKF5z_pRoVXUefX-fuz).
+[Общая папка показа на Диске](https://drive.google.com/drive/folders/1FEzRPqrtH4ViU5W4B0JDKWIjP5jnfOZc).
 
 
 ## Указатель для учебного Project «Поварёшка»
